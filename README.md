@@ -34,7 +34,7 @@ A beautifully designed Tic Tac Toe game built using **HTML**, **CSS**, and **Jav
 
 ## 🔗 Live Preview
 
-[Click here to play the live version on Netlify](https://your-netlify-url.netlify.app)
+[Click here to play the live version on Netlify](https://tictactoe29.netlify.app/)
 
 ---
 
